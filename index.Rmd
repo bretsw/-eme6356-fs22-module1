@@ -338,6 +338,18 @@ include_graphics("img/1-gpt3-ngss.jpg")
 
 ---
 
+# `r fa("fas fa-thumbtack", fill = "#fff")` Predicting Heart Rate
+
+```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
+include_graphics("img/1-heart-rate.png")
+```
+
+--
+
+**Analytics is really just applications of correlations (i.e., fancy math)**
+
+---
+
 class: inverse, center, middle
 
 # `r fa("fas fa-exclamation", fill = "#fff")` <br><br> What is "analytics" *not*?
