@@ -472,7 +472,7 @@ include_graphics("img/workshop.jpg")
 
 --
 
-- `r fa("video", fill = "#782F40")` Meet (Tuesdays at 8pm EST on Zoom)
+- `r fa("video", fill = "#782F40")` Meet (Tuesdays at 7pm EST on Zoom)
 
 --
 
