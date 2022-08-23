@@ -386,40 +386,6 @@ class: inverse, center, middle
 
 ---
 
-# `r fa("book-open", fill = "#fff")` Module 1 readings
-
-```{r, out.width = "360px", echo = FALSE, fig.align = "center"}
-include_graphics("img/books.jpg")
-```
-
---
-
-- 1.1 Educational Research: The Hardest Science of All (Berliner, 2002)
-
---
-
-- 1.2 Odds Are, It’s Wrong (Siegfried, 2010)
-
---
-
-- 1.3 “The Numbers Speak for Themselves:” Data Use and the Organization of Schooling in Two Florida Elementary Schools (Rutledge & Neal, 2013)
-
---
-
-- 1.4 Big Data Analytics (Russom, 2011)
-
---
-
-- 1.5 Data Science and Its Relationship to Big Data and Data-Driven Decision Making (Provost & Fawcett, 2013)
-
----
-
-class: inverse, center, middle
-
-# `r fa("fas fa-binoculars", fill = "#fff")` <br><br> Looking ahead
-
----
-
 class: inverse, center, middle
 
 # `r fa("fas fa-binoculars", fill = "#fff")` Looking ahead
@@ -535,6 +501,34 @@ include_graphics("img/build.jpg")
 --
 
 - Analytics Ethics Statement (100 points)
+
+---
+
+# `r fa("book-open", fill = "#fff")` Module 1 readings
+
+```{r, out.width = "360px", echo = FALSE, fig.align = "center"}
+include_graphics("img/books.jpg")
+```
+
+--
+
+- 1.1 Educational Research: The Hardest Science of All (Berliner, 2002)
+
+--
+
+- 1.2 Odds Are, It’s Wrong (Siegfried, 2010)
+
+--
+
+- 1.3 “The Numbers Speak for Themselves:” Data Use and the Organization of Schooling in Two Florida Elementary Schools (Rutledge & Neal, 2013)
+
+--
+
+- 1.4 Big Data Analytics (Russom, 2011)
+
+--
+
+- 1.5 Data Science and Its Relationship to Big Data and Data-Driven Decision Making (Provost & Fawcett, 2013)
 
 ---
 
